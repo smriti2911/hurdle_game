@@ -6,7 +6,7 @@
     
 </head>
 <body>
-    <h1>My hurdle Game Image</h1>
+    <h1>My Hurdle Game Image</h1>
     <img src="https://raw.githubusercontent.com/smriti2911/hurdle_game/main/Screenshot%202024-06-14%20144658.png" alt="Hurdle Game Screenshot">
 </body>
 </html>
